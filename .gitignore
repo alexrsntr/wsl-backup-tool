@@ -1,0 +1,4 @@
+# Backup-Archive nicht ins Repo
+*.tar
+*.tar.gz
+*.vhdx
